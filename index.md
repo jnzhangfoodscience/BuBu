@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home｜BuBu Stockholm
+permalink: /
 ---
 
 <p align="center">
