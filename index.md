@@ -4,17 +4,17 @@ title: Home｜BuBu Stockholm
 ---
 
 <p align="center">
-  <img src="/assets/bubu-logo.jpg" alt="BuBu logo" width="150" />
+  <img src="/BuBu/assets/bubu-logo.jpg" alt="BuBu logo" width="150" />
 </p>
 
 <h1 align="center">BuBu</h1>
 
 <p align="center">
-  <a href="/">Home</a> ｜ 
-  <a href="/about/">About</a> ｜ 
-  <a href="/research/">Research Projects</a> ｜ 
-  <a href="/publications/">Publications</a> ｜ 
-  <a href="/news/">News</a>
+  <a href="/BuBu/">Home</a> ｜ 
+  <a href="/BuBu/about/">About</a> ｜ 
+  <a href="/BuBu/research/">Research Projects</a> ｜ 
+  <a href="/BuBu/publications/">Publications</a> ｜ 
+  <a href="/BuBu/news/">News</a>
 </p>
 
 ---
