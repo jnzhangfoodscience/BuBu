@@ -1,31 +1,79 @@
 ---
 layout: default
-title: Home｜BuBu Stockholm
+title: Home丨 BuBu Stockholm
 permalink: /
 ---
+<!-- Custom CSS injection -->
+<style>
+.hero-banner {
+  background-image: url('/assets/banner-ocean.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 120px 20px;
+  text-align: center;
+  color: white;
+}
+.hero-banner h1 {
+  font-size: 3em;
+  margin-bottom: 0.3em;
+}
+.hero-banner p {
+  font-size: 1.2em;
+  max-width: 700px;
+  margin: 0 auto 1.5em;
+}
+.hero-button {
+  padding: 0.75em 1.5em;
+  font-size: 1em;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  border-radius: 30px;
+  text-decoration: none;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1em 2em;
+}
+.navbar img {
+  height: 40px;
+}
+.navbar a {
+  margin-left: 1.2em;
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: bold;
+}
+.navbar a:hover {
+  text-decoration: underline;
+}
+</style>
 
-<p align="center">
-  <img src="/BuBu/assets/bubu-logo.jpg" alt="BuBu logo" width="150" />
-</p>
+<!-- Top Navigation -->
+<div class="navbar">
+  <img src="/assets/bubu-logo.jpg" alt="BuBu logo" />
+  <div>
+    <a href="/">Home</a>
+    <a href="/BuBu/about/">About</a>
+    <a href="/BuBu/research/">Research</a>
+    <a href="/BuBu/publications/">Publications</a>
+    <a href="/BuBu/news/">News</a>
+  </div>
+</div>
 
-<h1 align="center">BuBu</h1>
-
-<p align="center">
-  <a href="/BuBu/">Home</a> ｜ 
-  <a href="/BuBu/about/">About</a> ｜ 
-  <a href="/BuBu/research/">Research Projects</a> ｜ 
-  <a href="/BuBu/publications/">Publications</a> ｜ 
-  <a href="/BuBu/news/">News</a>
-</p>
-
+<!-- Hero Banner -->
+<div class="hero-banner">
+  <h1>Check out BuBu</h1>
+  <p>
+    **BuBu** is a research-driven startup based in Stockholm. 
+    We are a research and development-driven startup specializing in providing advanced technology solutions grounded in condensed matter physics. Serving a wide range of industries—including food, maritime, gaming, and fisheries, while also developing and commercializing cutting-edge patents. Our mission is to bridge fundamental science with real-world innovation, helping industries unlock new possibilities through physics-based technologies.
+  </p>
+  <a href="/research/" class="hero-button">Explore Projects</a>
+</div>
 ---
 
-## 👋 Welcome to BuBu
-
-**BuBu** is a research-driven startup based in Stockholm.  
-We are a research and development-driven startup specializing in providing advanced technology solutions grounded in condensed matter physics. Serving a wide range of industries—including food, maritime, gaming, and fisheries, while also developing and commercializing cutting-edge patents. Our mission is to bridge fundamental science with real-world innovation, helping industries unlock new possibilities through physics-based technologies.
-
----
 
 ## 🧪 Latest News
 
